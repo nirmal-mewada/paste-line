@@ -7,3 +7,6 @@ PasteLine.app/
 # Temporary files
 *.log
 *.tmp
+
+# Developer Memory (Local only)
+DEVELOPER_MEMORY.md
