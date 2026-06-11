@@ -1,0 +1,9 @@
+# Compiled Application Bundles
+PasteLine.app/
+
+# macOS files
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
